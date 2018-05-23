@@ -7,12 +7,14 @@
         <en>Birch growth</en>
         <de>Birch growth</de>
         <fr>Birch growth</fr>
+        <pl>Wzrost brzozy</pl>
     </title>
 
     <description>
         <en><![CDATA[Birch growth]]></en>
         <de><![CDATA[Birch growth]]></de>
         <fr><![CDATA[Birch growth]]></fr>
+        <pl><![CDATA[Mod ten losowo umieszcza brzozy na obszarach, na których występują duże płaty trawy lub drzewostanu. Brzozy nie będą umieszczane na polach.]]></pl>
     </description>
 
     <iconFilename>icon.dds</iconFilename>
